@@ -35,7 +35,7 @@ A small challenge from **Frontend Mentor** that recreates a preview card with th
 ## How to use
 1. Clone the repository
 ```bash
-  git clone [https://github.com/J4yFerdinand/3-column-preview-card-component.git](https://github.com/tuusuario/3-column-preview-card-component.git)
+  git clone [https://github.com/J4yFerdinand/3-column-preview-card-component.git](https://github.com/J4yFerdinand/3-column-preview-card-component.git)
 ```
 2. Open _index.html_ in your browser or serve the folder with the VS Code Live Server extension or in similars editors. No dependencies or build steps are required.
 
