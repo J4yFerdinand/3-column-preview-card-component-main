@@ -45,8 +45,8 @@ A small challenge from **Frontend Mentor** that recreates a preview card with th
 - I improved accessibility by adding :focus-visible and appropriate alternative text.
 
 ## Author
-J4yFerdinad: [Github](https://github.com/J4yFerdinand/)
-LinkedIn: [Click here](https://www.linkedin.com/in/joferiva/)
+- J4yFerdinad: [Github](https://github.com/J4yFerdinand/)
+- LinkedIn: [Click here](https://www.linkedin.com/in/joferiva/)
 
 ## Acknowledgments
 Layout based on Frontend Mentor's “3-column preview card component” challenge. Thank you for providing the designs and assets!
